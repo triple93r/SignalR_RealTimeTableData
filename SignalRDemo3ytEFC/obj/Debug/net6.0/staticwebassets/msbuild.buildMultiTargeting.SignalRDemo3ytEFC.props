@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalRDemo3ytEFC.props" />
+</Project>
